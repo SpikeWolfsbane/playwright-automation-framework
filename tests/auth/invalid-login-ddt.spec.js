@@ -1,5 +1,5 @@
-const {test, expect} = require('@playwright/test');
-const{LoginPage} = require('../pages/login-page');
+const { test, expect } = require('@playwright/test');
+const { LoginPage } = require('../../pages/login-page');
 
 test.describe('Invalid Login - Data Driven', () => {
     const invalidCreds = [

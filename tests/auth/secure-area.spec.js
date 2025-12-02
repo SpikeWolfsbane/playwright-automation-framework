@@ -1,5 +1,5 @@
-const {test, expect} = require('../fixtures/auth-fixtures');
-const {LoginPage} = require('../pages/login-page');
+const { test, expect } = require('../../fixtures/auth-fixtures');
+const { LoginPage } = require('../../pages/login-page');
 
 test.describe('Secure Area Behavior', () => {
     test('user can log out and return to the login page', async ({page, secureAreaPage}) => {
