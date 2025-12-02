@@ -1,6 +1,6 @@
 import {test, expect} from '@playwright/test';
 
-test("Daniels first test - check Playwright header", async ({page}) => {
+test(" first test - check Playwright header", async ({page}) => {
     //Navigate to Playwright homepage
     await page.goto('https://playwright.dev/');
 
