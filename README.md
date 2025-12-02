@@ -3,7 +3,7 @@
 [![Playwright Tests](https://github.com/SpikeWolfsbane/playwright-automation-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/SpikeWolfsbane/playwright-automation-framework/actions/workflows/playwright.yml)
 ![Playwright](https://img.shields.io/badge/Tested%20with-Playwright-45ba4b)
 
-A portfolio-ready UI test automation framework built with Playwright.  
+A UI test automation framework built with Playwright.  
 It uses the Page Object Model (POM), custom fixtures, and GitHub Actions CI to run tests automatically on every push.
 
 ---
